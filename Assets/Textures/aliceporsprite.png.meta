@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 0efd36fea2480a5489cbee08721e542a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: aliceporsprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 811
+        width: 105
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 810
+        width: 103
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 810
+        width: 108
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 810
+        width: 113
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 810
+        width: 109
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 810
+        width: 101
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_6
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 809
+        width: 103
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_7
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 809
+        width: 104
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 584
+        width: 102
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 584
+        width: 101
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 583
+        width: 100
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 585
+        width: 107
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 584
+        width: 109
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 583
+        width: 106
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 585
+        width: 100
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_15
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 584
+        width: 103
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 379
+        width: 122
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 379
+        width: 122
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 379
+        width: 118
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 377
+        width: 122
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 377
+        width: 121
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_21
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 379
+        width: 125
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 377
+        width: 123
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: aliceporsprite_23
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 379
+        width: 122
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
